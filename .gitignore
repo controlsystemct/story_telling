@@ -15,3 +15,5 @@ output/
 # environment
 venv/
 .env
+
+ffmpeg/
