@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# models and checkpoints
+*.pth
+*.tar
+
+# videos / outputs
+output/
+*.mp4
+*.mov
+
+# environment
+venv/
+.env
