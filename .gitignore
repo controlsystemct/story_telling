@@ -8,9 +8,6 @@ __pycache__/
 *.tar
 
 # videos / outputs
-output/
-*.mp4
-*.mov
 
 # environment
 venv/
